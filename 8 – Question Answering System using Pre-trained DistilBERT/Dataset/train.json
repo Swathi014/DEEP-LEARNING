@@ -1,0 +1,149 @@
+[
+  {
+    "context": "Python is a high-level, general-purpose programming language created by Guido van Rossum.",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "Who created the Python programming language?",
+        "answers": [
+          {
+            "text": "Guido van Rossum",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The first generation of computers, developed between 1940 and 1956, consisted of vacuum tubes, magnetic drums, and punched cards.",
+    "qas": [
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "When were the first generation of computers developed?",
+        "answers": [
+          {
+            "text": "between 1940 and 1956",
+            "answer_start": 45
+          }
+        ]
+      },
+      {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "What were the main components used in the first generation of computers?",
+        "answers": [
+          {
+            "text": "vacuum tubes, magnetic drums, and punched cards",
+            "answer_start": 81
+          }
+        ]
+      },
+      {
+        "id": "00004",
+        "is_impossible": true,
+        "question": "Who is the main inventor of these computers?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Alan Turing is widely considered to be the father of theoretical computer science and artificial intelligence. In 1950, he proposed the Turing test as a criterion of intelligence.",
+    "qas": [
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "Who is considered the father of artificial intelligence?",
+        "answers": [
+          {
+            "text": "Alan Turing",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00006",
+        "is_impossible": false,
+        "question": "What test did he propose in 1950?",
+        "answers": [
+          {
+            "text": "the Turing test",
+            "answer_start": 132
+          }
+        ]
+      },
+      {
+        "id": "00007",
+        "is_impossible": true,
+        "question": "Did Alan Turing win a Nobel prize?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN.",
+    "qas": [
+      {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "Who invented the World Wide Web?",
+        "answers": [
+          {
+            "text": "Tim Berners-Lee",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00009",
+        "is_impossible": false,
+        "question": "When was the World Wide Web invented?",
+        "answers": [
+          {
+            "text": "1989",
+            "answer_start": 78
+          }
+        ]
+      },
+      {
+        "id": "00010",
+        "is_impossible": false,
+        "question": "Where was he working when he invented it?",
+        "answers": [
+          {
+            "text": "CERN",
+            "answer_start": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Machine learning is a subset of artificial intelligence that involves the use of algorithms and statistical models to enable machines to improve their performance on a specific task through experience.",
+    "qas": [
+      {
+        "id": "00011",
+        "is_impossible": false,
+        "question": "What is machine learning a subset of?",
+        "answers": [
+          {
+            "text": "artificial intelligence",
+            "answer_start": 32
+          }
+        ]
+      },
+      {
+        "id": "00012",
+        "is_impossible": false,
+        "question": "What does machine learning use to enable machines to improve?",
+        "answers": [
+          {
+            "text": "algorithms and statistical models",
+            "answer_start": 81
+          }
+        ]
+      }
+    ]
+  }
+]
